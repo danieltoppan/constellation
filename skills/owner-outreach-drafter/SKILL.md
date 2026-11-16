@@ -1,6 +1,6 @@
 ---
 name: owner-outreach-drafter
-description: Draft soft, brief first-touch outreach to founders of software companies from a sourced thesis: email, call opener, follow-up note and cadence. Drafts only, never sends.
+description: "Draft soft, brief first-touch outreach to founders of software companies from a sourced thesis: email, call opener, follow-up note and cadence. Drafts only, never sends."
 ---
 
 # Owner Outreach Drafter
